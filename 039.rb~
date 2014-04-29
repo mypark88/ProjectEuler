@@ -1,0 +1,24 @@
+
+def howManyTriangles n
+    possibleSolution = []
+    sideA = n-2
+    sideB = 1
+    sideC = 1
+    
+    while sideA > 0
+        sides = [sideA,sideB,sideC]
+        largest = sides.delete(sides.max)
+        
+        
+    end
+
+end
+
+greatestPossibleSolution = 0
+result = 0
+p = 4
+
+while p <= 1000
+    howManyTriangles p
+    p += 1
+end
