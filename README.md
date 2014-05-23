@@ -9,3 +9,4 @@ Languages used:
 - Haskell
 
 Note: Some of my solutions were lost in the great hard drive purge. 
+
